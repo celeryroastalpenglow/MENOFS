@@ -54,16 +54,16 @@ The model balances supply and demand at an hourly resolution for all nodes in th
 ### Techno-economic assumptions
 The full set of techno-economic assumptions can be found in __highres_gb_ext_database.ods__, in the Zenodo data package. 
 
-| Technology    | Capex [£k/MW] | FOM [£k/MW] | VOM [£k/MWh] |
+| Technology    | Capex [€k/MW] | FOM [€k/MW] | VOM €k/MWh] |
 | -----------   | ------------- |------------ | ------------ |
-| Solar PV      | 17.312        | 5.0         | 0.0          | 
-| Onshore wind  | 55.326        | 20.0        | 0.00502568   | 
-| Offshore wind | 114.595       | 85.0        | 0.00168123   | 
-| Nuclear       | 546.354       | 63.074      | 0.00442909   | 
-| HydroRoR      | 267.628       | 41.661      | 0.002        | 
-| HydroRES      | 267.628       | 41.661      | 0.002        | 
-| Gas with CCS  | 107.312       | 32.772      | 0.004        | 
-| Gas w/o CCS   | 27.811        | 13.726      | 0.005        | 
+| Solar PV      | 398.1         | 8.19        | 0.0016       | 
+| Onshore wind  | 1220.5        | 32.8        | 0.0082       | 
+| Offshore wind | 2193.6        | 139.3       | 0.0033       | 
+| Nuclear       | 6507.1        | 103.4       | 0.0066       | 
+| HydroRoR      | -             | 68.3        | 0.0033       | 
+| HydroRES      | -             | 68.3        | 0.0033       | 
+| Gas with CCS  | 1931.4        | 54.1        | 0.0016       | 
+| Gas w/o CCS   | 506.2         | 22.9        | 0.0016       | 
 
 
 
